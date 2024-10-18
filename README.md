@@ -1,6 +1,8 @@
-# Contact Form Project
+# Contact page Form Project
 
 This project is a simple contact form built with React and Redux, allowing users to submit their information and project details. The form validates input fields and handles submission with error and success messages.
+
+
 
 ## Features
 
@@ -38,4 +40,4 @@ Given my current experience level with APIs and backend development, I encounter
 I recommend implementing a real API for actual data submission and retrieval to fully demonstrate the functionality of the contact form. 
 Please understand that this task has been completed to the best of my abilities, considering the limitations faced with the testing APIs.
 
-
+*#Conclusion**: I made the form responsive, hiding the image on mobile devices. After submitting the data, the submitted information is displayed below the form.
